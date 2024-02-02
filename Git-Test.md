@@ -26,4 +26,5 @@ Git status - команда, вызывающая блок информации 
 
 git branch - выводит ветки
 git log --graph - графический вывод изменений
+git branch name - создание ветки
 ## Lesson2
