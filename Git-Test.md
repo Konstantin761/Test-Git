@@ -29,6 +29,6 @@ git log --graph - графический вывод изменений
 git branch name - создание ветки
 ## Lesson2
 
-##Lesson3
+## Lesson3
 
 GITHUB
